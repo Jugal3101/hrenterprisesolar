@@ -1,0 +1,14 @@
+{
+    "name": "jugal3101/hrenterprisesolar",
+    "description": "HR Enterprise Solar Project",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ]
+}
